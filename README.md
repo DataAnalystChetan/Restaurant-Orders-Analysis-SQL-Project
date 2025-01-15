@@ -5,6 +5,7 @@ You've just been hired as a Data Analyst for a restaurant that offers a diverse 
 
 ## Dataset
 
+The Database consists of 2 tables menu item table and an order details table.
 
 
 The dataset used for analysis can be found [here](https://mavenanalytics.io/data-playground?page=2&pageSize=10).
@@ -18,6 +19,16 @@ The dataset used for analysis can be found [here](https://mavenanalytics.io/data
 1. Explore the menu_items table to get an idea of what's on the new menu.
 2. Explore the order_details table to get an idea of the data that's been collected.
 3. Use both tables to understand how customers are reacting to the new menu.
+
+<br><br>
+The questions used for analysis can be found [here](https://github.com/DataAnalystChetan/Restaurant-Orders-Analysis-SQL-Project/blob/main/Questions.txt)
+
+The SQL queries used to find insights from the menu table can be found [here](https://github.com/DataAnalystChetan/Restaurant-Orders-Analysis-SQL-Project/blob/main/SQL%20Scripts/1.sql).
+
+The SQL queries used to find insights from the Order table can be found [here](https://github.com/DataAnalystChetan/Restaurant-Orders-Analysis-SQL-Project/blob/main/SQL%20Scripts/2.sql).
+
+Targeted SQL queries developed to find complex answers regarding business can be found [here](https://github.com/DataAnalystChetan/Restaurant-Orders-Analysis-SQL-Project/blob/main/SQL%20Scripts/3.sql). 
+
 
 ## Observations:
 
