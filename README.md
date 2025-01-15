@@ -10,6 +10,9 @@ You've just been hired as a Data Analyst for a restaurant that offers a diverse 
 The dataset used for analysis can be found [here](https://mavenanalytics.io/data-playground?page=2&pageSize=10).
 
 
+![Data Structure](https://github.com/DataAnalystChetan/Restaurant-Orders-Analysis-SQL-Project/blob/main/Data%20structure.png)
+
+
 ## Objective
 
 1. Explore the menu_items table to get an idea of what's on the new menu.
